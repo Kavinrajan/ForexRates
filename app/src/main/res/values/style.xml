@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CardViewBlack" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/black</item>
+    </style>
+
+    <style name="CardViewWhite" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/white</item>
+    </style>
+</resources>

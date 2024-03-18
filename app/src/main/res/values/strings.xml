@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ForexRates</string>
+
+    <string name="currency_amount">Amount</string>
+    <string name="currency_select">Select the currency</string>
+    <string name="ok">OK</string>
+    <string name="retry">Retry</string>
+    <string name="close">Close</string>
+    <string name="empty_list">Please select a currency and enter the amount to show it converted to other currencies.</string>
+
+    <string name="error_title">Error</string>
+    <string name="error_message">An unexpected error has occurred, please retry after some time.</string>
+    <string name="error_message_retry">An unexpected error has occurred, would you like to retry?</string>
+
+    <string name="placeholder_amount">Enter amount</string>
+    <string name="select_currency">Select Currency</string>
+    <string name="pref_key">currency_preference_key</string>
+    <string name="network_error">Network unavailable</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="some_error">Some error occurred</string>
+    <string name="splash_txt">Shop Smart, Shop Easy, Shop with Us!</string>
+
+    <string name="no_internet_connection_dialog">Internet connection is not available. Would you like to go to settings and enable it?</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="_1">1</string>
+</resources>
